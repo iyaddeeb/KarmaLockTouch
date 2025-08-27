@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210763779851",
+    "project_id": "karma-lock-touch",
+    "storage_bucket": "karma-lock-touch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210763779851:android:054fb2578122dcc1691c0e",
+        "android_client_info": {
+          "package_name": "com.karmakids.karmalocktouch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp0wXPwLlCFOpMKivwb9N5a_CKicJkttA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210763779851:android:fcf779cc11a1bceb691c0e",
+        "android_client_info": {
+          "package_name": "com.kids.karmalocktouch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp0wXPwLlCFOpMKivwb9N5a_CKicJkttA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
