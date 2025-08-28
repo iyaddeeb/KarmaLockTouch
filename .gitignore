@@ -25,3 +25,5 @@ keystore.properties
 # Packages
 *.apk
 *.aab
+
+.fake
